@@ -1,11 +1,11 @@
 {
-  "name": "mcp-fly",
+  "name": "mcp-baike-render",
   "version": "1.0.0",
   "description": "MCP Server for accessing and rendering Baidu Baike content",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "mcp-fly": "bin/mcp-fly.js"
+    "mcp-baike-render": "bin/mcp-baike-render.js"
   },
   "scripts": {
     "build": "tsc",

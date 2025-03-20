@@ -1,6 +1,6 @@
-# MCP-Fly
+# MCP-Baike-Render
 
-MCP-Fly 是一个用于访问和渲染百度百科内容的 MCP Server。它提供了两个主要功能：
+MCP-Baike-Render 是一个用于访问和渲染百度百科内容的 MCP Server。它提供了两个主要功能：
 
 1. 通过 `request_baike` 工具获取百度百科讨论数据
 2. 通过 `render_baike` 提示模板将结构化数据渲染为易读的分析内容
@@ -27,7 +27,7 @@ DEFAULT_LEMMA_ID=65258669                        # 默认词条ID（当无法解
 BAIKE_COOKIE=''                                  # 百度百科Cookie，用于API认证和访问限制绕过
 
 # 应用信息
-MCP_SERVER_NAME=Fly
+MCP_SERVER_NAME=Baike-Render
 MCP_SERVER_VERSION=1.0.0
 MCP_SERVER_DESCRIPTION=百度百科内容访问和渲染服务
 ```
