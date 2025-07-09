@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zzzccs123-mcp-baike-render-badge.png)](https://mseep.ai/app/zzzccs123-mcp-baike-render)
+
 # MCP-Baike-Render
 
 MCP-Baike-Render 是一个用于访问和渲染百度百科内容的 MCP Server。它提供了两个主要功能：
